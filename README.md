@@ -1,6 +1,9 @@
 ### Hi there 👋, my name is Christine
 #### I am a Python developer and NLP engineer
-![I am a Python developer and NLP engineer](https://github.com/christine-egan42/christine-egan42.github.io/blob/main/Untitled_Artwork.gif)
+![I am a Python developer and NLP engineer]
+
+<img src="[https://your-image-url.type](https://github.com/christine-egan42/christine-egan42.github.io/assets/116017015/8a19b34e-b79b-4677-8cad-f509afb7ca71)" width="100" height="100">
+
 
 I also...
 🔹 am a curriculum developer at Flatiron School
