@@ -6,8 +6,11 @@
 
 I am a...
 🐍 Python developer
+
 🤖 NLP engineer
+
 👩🏻‍💻 Senior Data Science Curriculum Developer at [Flatiron School](https://flatironschool.com/welcome-to-flatiron-school/?utm_source=Google&utm_medium=ppc&utm_campaign=12728169833&utm_content=127574232664&utm_term=flatiron%20computer%20school&uqaid=513747011248&Cj0KCQjw7aqkBhDPARIsAKGa0oJdKiI3LYeKAJFIp1k0f5FPxFiC6LptP4SnJUgJfDPqVE6lvTd2L24aAkvrEALw_wcB&gclid=Cj0KCQjw7aqkBhDPARIsAKGa0oJdKiI3LYeKAJFIp1k0f5FPxFiC6LptP4SnJUgJfDPqVE6lvTd2L24aAkvrEALw_wcB)
+
 
 📫 How to reach me: christine.egan42@gmail.com 
 
