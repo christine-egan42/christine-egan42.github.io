@@ -28,5 +28,3 @@ I am a...
 
 ⭐︎ Pragmatics
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=christine-egan42)  
-
