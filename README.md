@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Christine
 
-<img align="center" src="https://github.com/christine-egan42/christine-egan42.github.io/assets/116017015/8a19b34e-b79b-4677-8cad-f509afb7ca71" width="200" height="200">
+<img align="center" src="https://github.com/christine-egan42/christine-egan42.github.io/assets/116017015/8a19b34e-b79b-4677-8cad-f509afb7ca71" width="150" height="150">
 
 ### About Me:
 
